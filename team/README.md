@@ -233,7 +233,7 @@ npm run build
 
 ## Phân Công
 
-| Người | Thành viên | Mảng phụ trách | File nên submit |
+| Người | Thành viên | Mảng phụ trách | File submit |
 |------|------------|----------------|-----------------|
 | Người 1 | Bùi Ngọc Khánh | API + pipeline backend | `team/api.py`, `team/src/config.py`, `team/src/pipeline.py`, `team/__init__.py` |
 | Người 2 | Nguyễn Xuân Hiệp | Retrieval + vector store | `team/src/retrieval.py`, `team/src/vector_store.py`, `team/scripts/build_vector_index.py`, `team/vector_store/index.json` |
