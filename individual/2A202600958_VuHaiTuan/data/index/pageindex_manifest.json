@@ -1,0 +1,79 @@
+{
+  "provider": "local_pageindex_fallback",
+  "source_dir": "/Users/vuhaituan/Downloads/AIThucChien/Day08/Day08_RAG_pipeline_cohort2/individual/tuan/data/standardized",
+  "document_count": 9,
+  "documents": [
+    {
+      "id": "bo-luat-hinh-su-chuong-ma-tuy-2015",
+      "source": "legal/bo-luat-hinh-su-chuong-ma-tuy-2015.md",
+      "filename": "bo-luat-hinh-su-chuong-ma-tuy-2015.md",
+      "title": "Bo Luat Hinh Su Chuong Ma Tuy 2015",
+      "year": "2017",
+      "type": "legal"
+    },
+    {
+      "id": "luat-phong-chong-ma-tuy-2021",
+      "source": "legal/luat-phong-chong-ma-tuy-2021.md",
+      "filename": "luat-phong-chong-ma-tuy-2021.md",
+      "title": "Luat Phong Chong Ma Tuy 2021",
+      "year": "2021",
+      "type": "legal"
+    },
+    {
+      "id": "nghi-dinh-105-2021",
+      "source": "legal/nghi-dinh-105-2021.md",
+      "filename": "nghi-dinh-105-2021.md",
+      "title": "Nghi Dinh 105 2021",
+      "year": "2021",
+      "type": "legal"
+    },
+    {
+      "id": "nghi-dinh-57-2022-danh-muc-chat-ma-tuy",
+      "source": "legal/nghi-dinh-57-2022-danh-muc-chat-ma-tuy.md",
+      "filename": "nghi-dinh-57-2022-danh-muc-chat-ma-tuy.md",
+      "title": "Nghi Dinh 57 2022 Danh Muc Chat Ma Tuy",
+      "year": "2022",
+      "type": "legal"
+    },
+    {
+      "id": "article_01",
+      "source": "news/article_01.md",
+      "filename": "article_01.md",
+      "title": "Nguyên tắc suy đoán vô tội khi đưa tin nghệ sĩ liên quan ma túy",
+      "year": "2026",
+      "type": "news"
+    },
+    {
+      "id": "article_02",
+      "source": "news/article_02.md",
+      "filename": "article_02.md",
+      "title": "Kiểm chứng nguồn tin trong các vụ việc nghệ sĩ bị nghi liên quan chất cấm",
+      "year": "2026",
+      "type": "news"
+    },
+    {
+      "id": "article_03",
+      "source": "news/article_03.md",
+      "filename": "article_03.md",
+      "title": "Xử lý hành vi sử dụng trái phép chất ma túy theo hướng quản lý và cai nghiện",
+      "year": "2026",
+      "type": "news"
+    },
+    {
+      "id": "article_04",
+      "source": "news/article_04.md",
+      "filename": "article_04.md",
+      "title": "Trách nhiệm truyền thông khi đưa tin về ma túy và người nổi tiếng",
+      "year": "2026",
+      "type": "news"
+    },
+    {
+      "id": "article_05",
+      "source": "news/article_05.md",
+      "filename": "article_05.md",
+      "title": "Phân biệt thông tin điều tra, khởi tố, xét xử và bản án trong vụ việc ma túy",
+      "year": "2026",
+      "type": "news"
+    }
+  ]
+}

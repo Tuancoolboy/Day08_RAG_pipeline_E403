@@ -1,0 +1,7 @@
+{
+  "title": "Kiểm chứng nguồn tin trong các vụ việc nghệ sĩ bị nghi liên quan chất cấm",
+  "url": "https://example.com/giai-tri/kiem-chung-tin-nghe-si-lien-quan-ma-tuy",
+  "source_name": "Offline Legal News Fixture",
+  "content_markdown": "\n# Kiểm chứng nguồn tin trong các vụ việc nghệ sĩ bị nghi liên quan chất cấm\n\nCác vụ việc liên quan đến nghệ sĩ và chất cấm thường lan truyền nhanh trên mạng\nxã hội. Người đọc cần kiểm tra ngày đăng, cơ quan phát hành, trích dẫn từ cơ\nquan chức năng và tình trạng pháp lý của vụ việc. Tin đồn, bài tổng hợp chưa rõ\nnguồn hoặc ảnh chụp màn hình không đủ để kết luận một cá nhân vi phạm pháp luật.\n\nKhi xây dựng hệ thống truy xuất, bài báo loại này nên được đánh nhãn là news,\nlưu URL gốc, tiêu đề, ngày crawl và nội dung markdown. Retrieval pipeline cần\nưu tiên văn bản pháp luật khi câu hỏi yêu cầu quy định pháp lý, và dùng tin tức\nnhư nguồn bối cảnh khi câu hỏi liên quan truyền thông hoặc kiểm chứng thông tin.\n",
+  "date_crawled": "2026-06-08T09:49:27.149118+00:00"
+}

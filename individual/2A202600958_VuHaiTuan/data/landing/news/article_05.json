@@ -1,0 +1,7 @@
+{
+  "title": "Phân biệt thông tin điều tra, khởi tố, xét xử và bản án trong vụ việc ma túy",
+  "url": "https://example.com/phap-luat/phan-biet-tin-dieu-tra-khoi-to-xet-xu",
+  "source_name": "Offline Legal News Fixture",
+  "content_markdown": "\n# Phân biệt thông tin điều tra, khởi tố, xét xử và bản án trong vụ việc ma túy\n\nTrong một vụ việc liên quan đến ma túy, thông tin điều tra là dữ liệu ban đầu\nđược cơ quan chức năng xác minh. Quyết định khởi tố thể hiện việc cơ quan tố\ntụng xem xét dấu hiệu tội phạm, nhưng chưa đồng nghĩa với kết luận có tội. Cáo\ntrạng, xét xử sơ thẩm, phúc thẩm và bản án có hiệu lực là các giai đoạn pháp lý\nkhác nhau.\n\nĐối với các vụ việc được công chúng chú ý vì có nghệ sĩ hoặc người nổi tiếng,\nviệc phân biệt giai đoạn tố tụng giúp tránh đưa tin sai lệch. Đây cũng là lý do\nhệ thống RAG cần hiển thị citation, source document và relevance score để người\ndùng tự kiểm tra căn cứ của câu trả lời.\n",
+  "date_crawled": "2026-06-08T09:49:27.149536+00:00"
+}
